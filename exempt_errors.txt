@@ -1,0 +1,8 @@
+Unknown PCM cards.pcm.rear
+Unknown PCM cards.pcm.center_lfe
+Unknown PCM cards.pcm.side
+Found no matching channel map
+Cannot open device /dev/dsp
+a52 is only for playback
+Invalid field card
+Invalid card 'card'
